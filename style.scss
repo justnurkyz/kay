@@ -16,6 +16,10 @@ a, a:hover {
 p {
   margin-bottom: 0;
 }
+.container{
+  width: 1140px;
+overflow: hidden;
+}
 
 
 #header {
@@ -314,7 +318,8 @@ p {
   }
 }
 
-#just {
+
+#travel {
   .travel {
     &-title {
       display: flex;
@@ -404,6 +409,7 @@ p {
     }
   }
 }
+
 
 #travel {
   .travel {
@@ -1071,4 +1077,3 @@ p {
 
   }
 }
-
